@@ -1,4 +1,4 @@
-Python Libraries required
+Python
 pandas
 numpy
 matplotlib
