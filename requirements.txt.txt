@@ -1,7 +1,0 @@
-Python Libraries required
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-xgboost
